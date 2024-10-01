@@ -1,16 +1,17 @@
-#Pondering Paths
+# Pondering Paths
 Note: Doubt in Last Hack
-###The Root
+
+### The Root
 /pwn
 
-###Program and Absolute Path
+### Program and Absolute Path
 /challenge/run
 
-###Position Thy Self
+### Position Thy Self
 Command worked after switching to the root directory
 
-###Position Elsewhere
+### Position Elsewhere
 The command worked after I switched directory to the given directory from the home directory
 
-###Position yet elsewhere
+### Position yet elsewhere
 Running the command gave a directory; Command gave flag after switching to the given directory
