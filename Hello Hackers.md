@@ -1,7 +1,7 @@
-#Hello_Hackers
+# Hello_Hackers
 
 ### Intro to Commands
 hello
 
-###Intro to Arguements
+### Intro to Arguements
 hello hackers
