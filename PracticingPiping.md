@@ -26,3 +26,8 @@ Grepped /challenge/run using the pipe (|) operator
 changed stderr to stdout using >& operator and grepped it using |
 Used the resources provided in the dojo to do extra reading on the operator
 
+### Duplicating piped data with tee
+Took me an ungodly amount of time
+Piped the data using tee to a different file
+catted the file to get the secret arguement
+ran the /challenge/pwn with the secret arguement to get the key pwn.college{MVXcgzIsIlL2bCV5OnLduzi7mSm.dFjM5QDL3AjN0czW}
