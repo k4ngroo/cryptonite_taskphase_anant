@@ -1,5 +1,4 @@
 # Pondering Paths
-Note: Doubt in Last Hack
 
 ### The Root
 /pwn
@@ -15,3 +14,6 @@ The command worked after I switched directory to the given directory from the ho
 
 ### Position yet elsewhere
 Running the command gave a directory; Command gave flag after switching to the given directory
+
+### home sweet home
+gave the arguement ~/t to have it be an absolute path
