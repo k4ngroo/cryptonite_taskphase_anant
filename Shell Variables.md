@@ -18,6 +18,8 @@ sh
 sh$ /challenge/run
 pwn.college{Yn-ERf--Z8ih264ZLHiIbJcdUxj.dJjN1QDL3AjN0czW}
 
+
+
 ### Printing Exported Variables
 env
 pwn.college{oc6vcJWitV6iDXgywHpAnL8rlaK.dhTN1QDL3AjN0czW}
