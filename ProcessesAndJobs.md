@@ -22,3 +22,8 @@ pwn.college{gAOK-7pyXWdKYQYChyezHz4fri9.dhDN4QDL3AjN0czW}
 pwn.college{M92S3G4mlKxQD-MEV4s3D-Q-ST5.dlDN4QDL3AjN0czW}
 
 ## Process Exit Codes
+/challenge/get-code
+echo $?
+I got 216 as the code
+/challenge/submit-code 216
+pwn.college{gGsiwtL0kCVI2DkBe2WmIxhiSnm.dljN4UDL3AjN0czW}
